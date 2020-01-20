@@ -1,0 +1,1 @@
+{"house": "Fasade decor for a private house", "design_project": "30.000", "production": "638.000 ", "mounting": "350.000 "}
